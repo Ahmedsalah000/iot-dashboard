@@ -1,0 +1,19 @@
+{
+  "name": "iot-dashboard-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "mqtt": "^4.3.7"
+  },
+  "devDependencies": {
+    "axios": "^1.7.9"
+  }
+}
